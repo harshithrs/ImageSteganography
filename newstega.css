@@ -1,9 +1,13 @@
 #s1{
-    background-image: url(encrypt.jpg);
+    background-image: url(
+        ImageSteganography/encrypt.jpg
+      );
     
 }
 #s2{
-    background-image: url(encrypt.jpg);
+    background-image: url(
+        ImageSteganography/encrypt.jpg
+      );
     
 }
 #s3{
