@@ -1,4 +1,2 @@
 # ImageSteganography
-front end of 
-image in image encoding and decoding and text in image
-for backend visit https://github.com/stfuyah/Stegano-text-img
+Full working Web application of Image Steganography
