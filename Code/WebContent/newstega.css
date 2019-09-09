@@ -1,13 +1,7 @@
-#s1{
-    background-image: url(
-        https://github.com/harshithrs/ImageSteganography/blob/master/encrypt.jpg?raw=true
-      );
+.s1{
+    background-image: url(encrypt.jpg);
     
 }
-#s2{
-    background-image: url(
-        https://github.com/harshithrs/ImageSteganography/blob/master/encrypt.jpg?raw=true
-      );
     
 }
 #s3{
