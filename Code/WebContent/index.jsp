@@ -30,7 +30,7 @@
                     </a>
             </div>
                     <div class="collapse" id="collapseExample">
-        <div class="jumbotron" id="s1">
+        <div class="jumbotron" class="s1">
             <br>
             <br>
           <a class="btn btn-success" id="a1" href="EncodeImg.jsp">Encode Image</a>
@@ -53,7 +53,7 @@
                 </a>
         </div>
                 <div class="collapse" id="collapseExample1">
-        <div class="jumbotron" id="s2">
+        <div class="jumbotron" class="s1">
             <br>
             <br>
         <a class="btn btn-danger" id="a3" href="DecodeImg.jsp">
